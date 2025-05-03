@@ -22,7 +22,7 @@ I utilized Maltego on Kali Linux to analyze findings across various social media
 UTM and Kali Linux for Mac OS is available to download from here [OneDrive 🔗](https://demontfortuniversity-my.sharepoint.com/:f:/g/personal/p2768537_my365_dmu_ac_uk/EkFH2_VSyvVLtDvV82h8K_IBUkU3Co1yPD3309VRok4o-A?e=b9egLZ) (Only accessible through a DMU email account)
 
 **Tools**
-- Maltego CE: Comes pre-installed in Kali Linux
+- Maltego CE: Pre-installed with Kali Linux, providing an open-source intelligence (OSINT) and graphical link analysis tool for investigating relationships and connections across the internet.
 - FTK Imager: Available for installation through Exterro, the official provider.
 - Dumpit: Used for capturing live memory
 
