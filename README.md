@@ -11,13 +11,15 @@ This repository contains the resources, methodologies, and findings from a digit
 - **Publicly Available Data**: Analysis performed on publicly available social media data to ensure compliance with ethical guidelines.
 - **BYOK (Bring Your Own Key) Transforms**: Demonstrates how users can extend Maltego CE’s functionality by integrating third-party APIs.
 
-I used Maltego from Kali Linux to analysis findings from various social media sites and FTK Imager from Exterro to conduct an investigation of recovering deleted social media in instances of cyberbullying or cybercrime
+I utilized Maltego on Kali Linux to analyze findings across various social media platforms and employed FTK Imager by Exterro to investigate and recover deleted social media content in cases related to cyberbullying and cybercrime.
 
 # Setup And Tools
 **Setup**
 - VMware Workstation for Windows
 - UTM for MacOS
 - Kali Linux Virtual Machine
+
+UTM and Kali Linux for Mac OS is available to download from here [OneDrive 🔗](https://demontfortuniversity-my.sharepoint.com/:f:/g/personal/p2768537_my365_dmu_ac_uk/EkFH2_VSyvVLtDvV82h8K_IBUkU3Co1yPD3309VRok4o-A?e=b9egLZ) (Only accessible through a DMU email account)
 
 **Tools**
 - Maltego CE: Comes pre-installed in Kali Linux
@@ -33,7 +35,7 @@ I used Maltego from Kali Linux to analysis findings from various social media si
 - `Final Project/`: \.mtgx`: Main folder containing Maltego graph files
 -  `Test Case 01.mtgl/`: Maltego graph file for test case 01.
 -  `Test Case 03.mtgl/`: Maltego graph file for test case 03.
-- `Test Case 03.mtgl/`: Maltego graph file for test case 04.
+-  `Test Case 04.mtgl/`: Maltego graph file for test case 04.
 - `evidence_screenshots/`: Folder with screenshots
 
 ## License
