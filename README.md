@@ -22,13 +22,19 @@ I used Maltego from Kali Linux to analysis findings from various social media si
 **Tools**
 - Maltego CE: Comes pre-installed in Kali Linux
 - FTK Imager: Can be installed by Exterro
+- Dumpit: Used for capturing live RAM memory
 
-
-
+## Objectives
+- Detect cyberbullying patterns on platforms like Facebook, Instagram, and Twitter.
+- Recover deleted social media content using FTK Imager.
+- Visualize relationships and connections between the attacker and the victim.
 
 ## Contents
-- `project_case05.mtgx`: Main Maltego graph file
+- `Final Project/`: \.mtgx`: Main folder containing Maltego graph files
+-  `Test Case 01.mtgl/`: Maltego graph file for test case 01.
+-  `Test Case 03.mtgl/`: Maltego graph file for test case 03.
+- `Test Case 03.mtgl/`: Maltego graph file for test case 04.
 - `evidence_screenshots/`: Folder with screenshots
-- `transforms/`: Local transform scripts
 
-)
+## License
+This project is strictly for academic and educational purposes only.
