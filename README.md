@@ -23,8 +23,8 @@ UTM and Kali Linux for Mac OS is available to download from here [OneDrive 🔗]
 
 **Tools**
 - Maltego CE: Comes pre-installed in Kali Linux
-- FTK Imager: Can be installed by Exterro
-- Dumpit: Used for capturing live RAM memory
+- FTK Imager: Available for installation through Exterro, the official provider.
+- Dumpit: Used for capturing live memory
 
 ## Objectives
 - Detect cyberbullying patterns on platforms like Facebook, Instagram, and Twitter.
